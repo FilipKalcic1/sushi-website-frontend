@@ -2,6 +2,19 @@
 
 A responsive restaurant landing page presenting Japanese food, drinks, and the Sushiman brand. The site is built with semantic HTML, section-based CSS, and vanilla JavaScript, with Vite providing the local development server and production build.
 
+## Website Preview
+
+<p align="center">
+	<strong>Desktop - 1440 x 1000</strong>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<strong>Mobile - 390 x 844</strong>
+</p>
+<p align="center">
+	<img src="screenshots/desktop.png" alt="Sushiman website displayed at desktop size" width="720" />
+	&nbsp;&nbsp;
+	<img src="screenshots/mobile.png" alt="Sushiman website displayed at mobile size" width="220" />
+</p>
+
 The interface is currently a static front-end showcase. It does not connect to an ordering service, search provider, newsletter platform, or other backend.
 
 ## Contents
